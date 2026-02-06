@@ -1,0 +1,15 @@
+{
+  "printerName": "",
+  "hotkeys": [
+    {
+      "ctrl": true,
+      "shift": true,
+      "alt": false,
+      "key": "G"
+    }
+  ],
+  "startupWithWindows": false,
+  "playSound": true,
+  "showNotification": true,
+  "minimizeToTray": true
+}
